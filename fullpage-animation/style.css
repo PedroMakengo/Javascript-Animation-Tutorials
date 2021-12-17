@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: Poppins;
+}
+
 .chair {
   height: 60%;
   position: absolute;
